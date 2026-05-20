@@ -160,7 +160,7 @@ Prg/
 Main applications:
 
 ```text
-Optical_Parameters_Change.mlapp
+
 Optical_Parameters_Change_new_mirror.mlapp
 ```
 
