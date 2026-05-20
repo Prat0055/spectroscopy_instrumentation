@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+
+title: "Spectroscopy Instrumentation and Spectral Analysis Framework"
+
+message: "If you use this software, please cite it using the metadata from this file."
+
+type: software
+
+authors:
+  - family-names: "Sen Sarma"
+    given-names: "Pratyush Ranjan"
+    orcid: "https://orcid.org/0000-0002-4110-3634"
+
+  - family-names: "Belmonte Sainz-Ezquerra"
+    given-names: "María Teresa"
+    orcid: "https://orcid.org/0000-0002-3527-201X"
+
+  - family-names: "Mar"
+    given-names: "Santiago"
+    orcid: "https://orcid.org/0000-0003-1988-8129"
+
+version: "2.0.0"
+
+date-released: "2026-05-20"
+
+repository-code: "https://github.com/Prat0055/spectroscopy_instrumentation"
+
+abstract: >
+  MATLAB-based instrumentation and analysis framework for high-resolution
+  atomic spectroscopy. The repository includes spectrometer syntony control,
+  shutter and mirror control, slit-curvature analysis and correction,
+  dispersion-based wavelength assignment, spectral extraction,
+  detector-image processing, and interactive identification of observed
+  spectral lines.
+
+keywords:
+  - MATLAB
+  - spectroscopy
+  - atomic spectroscopy
+  - App Designer
+  - Czerny-Turner spectrometer
+  - slit curvature
+  - wavelength calibration
+  - spectral extraction
+  - spectral line identification
+  - hollow cathode lamp
+  - CMOS detector
+  - instrumentation
+
+license: MIT
+
+references:
+  - type: report
+    title: "Analysis of Slit Curvature Using Image Processing"
+    authors:
+      - family-names: "Sen Sarma"
+        given-names: "Pratyush Ranjan"
+        orcid: "https://orcid.org/0000-0002-4110-3634"
+
+      - family-names: "Belmonte Sainz-Ezquerra"
+        given-names: "María Teresa"
+        orcid: "https://orcid.org/0000-0002-3527-201X"
+
+      - family-names: "Mar"
+        given-names: "Santiago"
+        orcid: "https://orcid.org/0000-0003-1988-8129"
+
+    year: 2024
+    month: 10
+    doi: "10.5281/zenodo.14002840"
